@@ -1,2 +1,2 @@
-# Amy_Portfolio
+# Portfolio
 Portfolio of data science projects
